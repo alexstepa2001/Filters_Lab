@@ -1,0 +1,6 @@
+﻿  Filter.cpp
+  main.cpp
+C:\Users\Александр\source\repos\QT_firstLab\QT_firstLab\main.cpp(19,2): error C2065: BlurFilter: необъявленный идентификатор
+C:\Users\Александр\source\repos\QT_firstLab\QT_firstLab\main.cpp(19,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "blur"
+C:\Users\Александр\source\repos\QT_firstLab\QT_firstLab\main.cpp(19,13): error C2065: blur: необъявленный идентификатор
+C:\Users\Александр\source\repos\QT_firstLab\QT_firstLab\main.cpp(20,2): error C2065: blur: необъявленный идентификатор
